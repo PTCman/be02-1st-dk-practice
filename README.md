@@ -4,7 +4,7 @@
 이동규
 
 ### 사진
-![내사진](\img\pic.jpg)
+![내사진](img/pic.jpg)
 
 ### MBTI
 ENTJ, INTJ
